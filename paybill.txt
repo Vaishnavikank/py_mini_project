@@ -1,0 +1,5 @@
+Product Name : cookies
+price : 600
+Quantity : 2
+
+Total Price : 1200.0

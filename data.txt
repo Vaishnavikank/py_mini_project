@@ -1,0 +1,4 @@
+103 , pastries , 300 , 8
+104 , muffins , 200 , 20
+106 , toast , 300 , 2
+107 , vaishu , 20 , 6
